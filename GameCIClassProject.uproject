@@ -1,36 +1,11 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.0",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "Bridge",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
-		},
-		{
-			"Name": "AtomsUnreal",
-			"Enabled": true
-		},
-		{
-			"Name": "MassAI",
-			"Enabled": true
-		},
-		{
-			"Name": "MassCrowd",
-			"Enabled": true
-		},
-		{
-			"Name": "MassEntity",
-			"Enabled": true
-		},
-		{
-			"Name": "MassGameplay",
+			"Name": "GolaemPlugin",
 			"Enabled": true
 		}
 	]
