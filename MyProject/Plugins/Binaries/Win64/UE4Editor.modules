@@ -1,0 +1,8 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"CrowdModule": "UE4Editor-CrowdModule.dll",
+		"CrowdModuleEditor": "UE4Editor-CrowdModuleEditor.dll"
+	}
+}
